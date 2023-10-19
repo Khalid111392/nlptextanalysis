@@ -1,7 +1,6 @@
-# nlptextanalysis
+# Sentiment Analysis on Financial Data 📈
 
 
-Sentiment Analysis on Financial Data 📈
 In an era where data drives decisions, the fusion of Natural Language Processing (NLP) and Machine Learning (ML) emerges as a groundbreaking paradigm. This work delved into the fascinating realm of NLP to bridge the gap between machines and human language, with a focus on the finance domain.
 
 Aim and Objectives:
